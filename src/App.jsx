@@ -8,11 +8,11 @@ const App = () => {
         <div className="image-container">
           <img
             className="equilibrium-image"
-            src="src\assets\images\image-equilibrium.jpg"
+            src="src/assets/images/image-equilibrium.jpg"
             alt=""
           />
           <div>
-            <img src="src\assets\images\icon-view.svg" alt="eye icon" />
+            <img src="src/assets/images/icon-view.svg" alt="eye icon" />
           </div>
         </div>
         <h3 className="card-title">Equilibrium #3429</h3>
@@ -23,7 +23,7 @@ const App = () => {
           <p className="eth-value">
             <img
               className="etherium-icon"
-              src="src\assets\images\icon-ethereum.svg"
+              src="src/assets/images/icon-ethereum.svg"
               alt="etherium icon"
             />
             0.041 ETH
@@ -34,7 +34,7 @@ const App = () => {
         <div className="profile-container">
           <img
             className="profile-image"
-            src="src\assets\images\image-avatar.png"
+            src="src/assets/images/image-avatar.png"
             alt="profile image"
           />
           <p className="profile-name">
